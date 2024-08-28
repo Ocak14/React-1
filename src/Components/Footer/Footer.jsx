@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className='footer'>
       <div className="footer-container container">
-        <p>Hos geldinez <a href="https://github.com/Ocak14?tab=repositories">komilovna</a></p>
+        <p>Welcome to my site<a href="https://github.com/Ocak14?tab=repositories">komilovna</a></p>
       </div>
     </div>
   )
